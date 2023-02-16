@@ -1,0 +1,37 @@
+.card {
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    border: 20px;
+}
+
+.cardpic {
+    height: 316px;
+    width: 346px;
+    left: 17px;
+    top: -62px;
+    border-radius: 0px;
+
+}
+
+.head {
+    height: 30px;
+    width: 149px;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 30%;
+
+
+
+}
+.table{
+    border: 2px solid;
+    
+  }
+  .td{
+        padding: 3%;
+  }
