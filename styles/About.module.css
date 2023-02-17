@@ -5,6 +5,7 @@
   height: 54.1969rem;
   position: relative;
   top: 1.0594rem;
+  overflow-x: hidden;
 }
 .content {
   display: flex;
