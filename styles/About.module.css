@@ -6,6 +6,7 @@
   position: relative;
   overflow-x: hidden;
   top: 1.0594rem;
+  overflow-x: hidden;
 }
 .content {
   display: flex;
