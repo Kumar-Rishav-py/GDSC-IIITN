@@ -148,5 +148,10 @@
   .intro{
     display: none;
   }
+  .about{
+    display: flex;
+
+    margin: 0 100%;
+  }
   
 }
