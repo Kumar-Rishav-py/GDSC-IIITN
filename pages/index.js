@@ -5,6 +5,8 @@ import About from '../components/About'
 import Banner from 'components/Banner'
 import Events from 'components/Events'
 import Banner2 from 'components/Banner2'
+import Team from 'components/Team'
+import Footer from 'components/Footer'
 
 export default function Home() {
   return (
@@ -16,7 +18,9 @@ export default function Home() {
     <About />
     <Banner/>
     <Events/>
+    <Team />  
     <Banner2/>
+    <Footer />
   </div>
   )
 }

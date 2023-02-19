@@ -35,6 +35,7 @@ const About = () => {
         <div className={styles.intro}>
         <img src="intro-shape.svg.svg" alt="#"  />
         </div>
+ 
       </div>
     </div>
   );

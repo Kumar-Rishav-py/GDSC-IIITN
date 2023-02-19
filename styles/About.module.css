@@ -4,6 +4,7 @@
   display: flex;
   height: 54.1969rem;
   position: relative;
+  overflow-x: hidden;
   top: 1.0594rem;
   overflow-x: hidden;
 }
@@ -146,6 +147,11 @@
 @media (max-width:768px) {
   .intro{
     display: none;
+  }
+  .about{
+    display: flex;
+
+    margin: 0 100%;
   }
   
 }
